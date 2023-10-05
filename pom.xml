@@ -11,6 +11,9 @@
     <modules>
         <module>Semi1</module>
         <module>Semi1_DZ1</module>
+        <module>Semi2</module>
+        <module>EM</module>
+        <module>Semi2_DZ2</module>
     </modules>
 
     <properties>
