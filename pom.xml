@@ -16,6 +16,8 @@
         <module>Semi2_DZ2</module>
         <module>Semi3</module>
         <module>Semi3_DZ3</module>
+        <module>Semi4</module>
+        <module>Semi4_DZ4</module>
     </modules>
 
     <properties>
